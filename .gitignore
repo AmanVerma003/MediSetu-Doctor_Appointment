@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+*/node_modules/
+
+# Build outputs
+build/
+dist/
+Admin/build/
+Frontend/build/
+
+# Environment variables
+.env
+Admin/.env
+Frontend/.env
+Backend/.env
+
+# Logs
+logs/
+*.log
+
+# Editor files
+.vscode/
+.DS_Store
